@@ -18,14 +18,23 @@ add coding to the input value.
 ### Step 6: 
 print coding to get the answer
 ## Program:
+'''
 #Program to circulate N values.
+
 #Developed by: M.suren.
+
 #RegisterNumber: 23005055
+
 def circulate():
+    
     list1=eval(input())
+    
     n=int(input())
+    
     result=list1[n:]+list1[:n]
+    
     print('After circulating the values are:',result)
+    '''
 ## Output: 
 ![circulate_the_value_of_n_variable](https://github.com/Msuren48106/Circulate-the-values-of-N-variables/assets/150503875/184983d5-920b-48f1-87cd-9eaeb3e249a7)
 ## Result:
