@@ -19,9 +19,7 @@ add coding to the input value.
 print coding to get the answer
 ## Program:
 '''
-#Program to circulate N values.
-#Developed by: M.suren.
-#RegisterNumber: 23005055
+#Program to circulate N values.#Developed by: M.suren.#RegisterNumber: 23005055
 def circulate():
     list1=eval(input())
     n=int(input())
